@@ -1,0 +1,62 @@
+*{
+    font-size: medium;
+    width: auto;
+    height: auto;
+    }
+    .main_card{
+        display: flex;
+        justify-content: center;
+    
+    }
+    .cards{
+    width: 350px;
+    height: 450px;
+    background: linear-gradient(-45deg, #E73C7E, #2dbff5 , #828485);
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 15px;
+    box-shadow: 0 5px 10px 0 rgb(32, 34, 33);
+    margin-bottom: 30px;
+    }
+    .Project_price{
+    font-size: medium;
+    font-weight: bolds;
+    color: black;
+    }
+    
+    .card{
+    border-color: rgb(9, 44, 75);
+    display: grid;
+    margin-left:center;
+    }
+    .bttn{
+    color: bisque;
+    background-color: rgb(11, 127, 250);
+    width: 90px;
+    height: 35px;
+    box-shadow: 0px 1px 3px 0px rgb(7, 0, 3);
+    border:none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+    margin-right: 10px;
+    }
+    .bttn:hover{
+        color: black;
+        background-color: darkgreen;
+    }
+    
+    .card_img{
+    height: 300px;
+    width: 255px;
+    padding: 3px;
+    
+    }
+    
+    .card_img:hover{
+    background-image: radial-gradient();
+    
+    }
+    
