@@ -10,7 +10,7 @@ const Cart_LayOut = ({ data }) => {
     const [project, setProject] = useState(data);
     return (
         <>
-            <div className='layoutt-div'>
+            <div className='layout-div'>
                 <div className='heading'>Shopping Cart</div>
                 <div className='main-div'>
                     <div className='left-div'>
